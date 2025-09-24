@@ -1,1 +1,0 @@
-# Elevatelabs_Task-2-PishingmailAnalysis
